@@ -11,12 +11,15 @@ home: https://bioinformaticsdotca.github.io/MET_2023
 | | **Day 1** | | **Day 2** |  
 | :---: | :---: | :---: | :---: |  
 | | **Monday, June 15** | | **Tuesday, June 16** | 
-|	10:00	|	Welcome (Rachade)	|	10:00	|	Module 4: Backgrounder in Statistics (Jeff Xia)	|
-|	10:45	|	Module 1: Introduction to Metabolomics (David Wishart)	|	11:30	|	<font color="green">Break</font>|
-|	12:30	|	<font color="green">Break</font>|	12:00	|	Module 5: MetaboAnalyst (Jeff Xia)	|
-|	13:00	|	Module 2: Metabolite Identification (David Wishart)	|	14:30	|	<font color="green">Break</font>	|
-|	14:30	|	<font color="green">Break</font>|	15:00	|	Module 5 Lab: Metabolomic Data Analysis using MetaboAnalyst 4.0 (Xia, Wishart, Chong, Berjanskii)	|
-|	15:00	|	Module 2 Lab: Compound ID & Quantification (Wishart, Xia, Berjanskii, Chong, Yamamoto)	|	16:30	|	<font color="green">Break</font>|
-|	16:30	|	<font color="green">Break</font>|	17:00	|	Module 5 Lab: Continued (Xia, Wishart, Berjanskii, Chong, Yamamoto)	|
-|	17:00	|	Module 3 Lecture: Databases for Chemical, Spectral and Biological Data (David Wishart)	|	18:30	|	Module 6: Future of Metabolomics	|
-|	18:30	|	(Optional) Spectral Processing & Functional Analysis until 8pm	|	19:00	|	Survey & Closing Remarks	|
+| Time (Mountain) | Module | Time (Mountain) | Module |
+| 8:30 | <font color="green">Arrivals & Check-in</font> | 8:30 | <font color="green">Arrivals</font> 
+|	9:00	|	Welcome (Michelle Brazas)	|	9:00	|	Module 4: Backgrounder in Omics Data Science (Jeff Xia)	|
+|	9:30	|	<font color="purple">Module 1: Introduction to Metabolomics (David Wishart) </font>	|	11:30	|	<font color="green">Break (30min)</font>|
+|	10:30	|	<font color="green">Break (30min)</font>|	10:30	|	<font color="purple">Module 5: MetaboAnalyst (Jeff Xia)</font>	|
+|	11:00	|	<font color="purple">Module 2: Metabolite Identification and Annotation (David Wishart)</font>	|	11:30	|	<font color="blue">Module 5 Lab: Metabolomic Data Analysis using MetaboAnalyst 5.0</font>	|
+|	12:00	|	<font color="green">Lunch (1hr)</font>|	12:30	|	<font color="green">Lunch (1hr)</font>	|
+|	13:00	|	<font color="blue">Module 2 Lab: Compound ID & Quantification |	13:30	|	<font color="blue">Module 5 Lab (continued)</font>|
+|	15:00	|	<font color="green">Break (30min)</font>|	15:00	|	<font color="green">Break (30min)</font>	|
+|	15:30	|	<font color="purple">Module 3 Lecture: Databases for Chemical, Spectral and Biological Data (David Wishart)</font>	|	15:30	|	<font color="purple">Module 6: Integrating Metabolomics with other Omics (Jeff Xia)</font>	|
+|	17:00	| <font color="green"> Finished</font> | 16:30|	<font color="purple">Survey & Closing Remarks</font> |
+| || 17:00 |(Optional) Spectral Processing & Functional Analysis until 7pm	|
