@@ -13,7 +13,9 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-[Welcome] to Informatics and Statistics for Metabolomics 2023.  
+## This workshop page is under construction. Please note that some links may be out of date.
+
+Welcome to Informatics and Statistics for Metabolomics 2023.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io//MET_2023_schedule)
 
