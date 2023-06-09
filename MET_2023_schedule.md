@@ -10,7 +10,7 @@ home: https://bioinformaticsdotca.github.io/MET_2023
 
 ## Edmonton
 
-| Time (Mountain) |                                              Monday, June 15                                               | Time (Mountain) |                                      Tuesday, June 16                                       |
+| Time (Mountain) |                                              Thursday, July 6                                               | Time (Mountain) |                                      Friday, July 7                                       |
 | :-------------: | :--------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------: |
 |      8:00       |                               <font color="green">Arrivals & Check-in</font>                               |      8:00       |                             <font color="green">Arrivals</font>                             |
 |      8:30       |                              <font color="purple">Welcome (Nia Hughes)</font>                              |      8:30       |     <font color="purple">Module 4: Backgrounder in Omics Data Science (Jeff Xia)</font>     |
@@ -26,7 +26,7 @@ home: https://bioinformaticsdotca.github.io/MET_2023
 
 ## Montréal
 
-| Time (Eastern) |                                              Monday, June 15                                               | Time (Eastern) |                                      Tuesday, June 16                                       |
+| Time (Eastern) |                                              Thursday, July 6                                               | Time (Eastern) |                                      Friday, July 7                                       |
 | :------------: | :--------------------------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------: |
 |     10:00      |                               <font color="green">Arrivals & Check-in</font>                               |     10:00      |                             <font color="green">Arrivals</font>                             |
 |     10:30      |                              <font color="purple">Welcome (Nia Hughes)</font>                              |     10:30      |     <font color="purple">Module 4: Backgrounder in Omics Data Science (Jeff Xia)</font>     |
