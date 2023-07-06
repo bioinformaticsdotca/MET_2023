@@ -92,6 +92,8 @@ Coming soon!
 # Resources
 [Webserver Assignments Per User](https://docs.google.com/spreadsheets/d/11I63peSZvv1fdxb-5qv444HmEmfoydjfxdJ-TdHjkjA/edit?usp=sharing)  
 
+[Module 3 Student Groups](https://docs.google.com/presentation/d/1KYbT6b_tZ_RzWmsm9Gu1Acq7ow6J14lyV6VMBk9y_PM/edit#slide=id.p1)  
+
 [GC-MS Datasets](https://drive.google.com/drive/folders/14MzVixVy5eDt__x4bl8j8UN6UFMMXNF9)  
 
 [NMR Datasets](https://drive.google.com/drive/folders/1wcl6IHof0uA3rkNpAH70dC4ap04bbrT9)  
