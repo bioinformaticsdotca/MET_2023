@@ -81,7 +81,7 @@ Coming soon!
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 7 Lab Slides](https://drive.google.com/file/d/1oHkFRLhXqQ3_oECY8-Xe0gsWLUOer3tA/view?usp=sharing)   
+[Module 7 Lab Slides](https://drive.google.com/file/d/1bJ7Xb1t5uEapRqMW-1CQhviB5dC5VbhI/view?usp=drive_link)   
   
 ##  Module 8: Integrating Metabolomics with Other Omics
 
