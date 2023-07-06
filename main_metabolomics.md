@@ -13,19 +13,17 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-## This workshop page is under construction. Please note that some links may be missing or out of date.
-
 Welcome to Informatics and Statistics for Metabolomics 2023.  
 
 The course **schedule** can be found [here](https://bioinformaticsdotca.github.io//MET_2023_schedule)
 
-Meet your **faculty** [here]()
+Meet your **faculty** [here](https://drive.google.com/file/d/1LYDdIU6ykCXV86MsAoszgNxJuLG6M4BM/view?usp=sharing)
 
 ***
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-**Pre-work** including programs to install can be found [here]()
+**Pre-work** including programs to install can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSezV8cbusyLYa98AJ50sZfOlW1HsKZmDh7XnsDKusRg73zkbw/viewform?usp=sf_link)
 
 ***
 
@@ -45,36 +43,48 @@ Coming soon!
 
 *<font color="#827e9c">David Wishart</font>*  
   
-[Module 1 Lecture Slides]()  
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1ibOcxoD8ouCQN_JiCLhIvOEPFDVr4Hlk/view?usp=sharing)  
   
-##  Module 2: Metabolite Identification and Annotation 
+##  Module 2: Targeted, Quantitative Metabolomics
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 2 Lecture Slides]()   
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1igpbiuCyRWGrOvV3YrVVkM9XmKQuQIRz/view?usp=sharing)   
   
-##  Module 3: Databases for Chemical, Spectral, and Biological Data  
+##  Module 3 (Lab): Quantitative Metabolomics
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 3 Lecture Slides]()   
+[Module 3 Lab Slides](https://drive.google.com/file/d/112LcLzt4mvP03gyDiWGDxGctf_emLO9c/view?usp=sharing)   
+
+##  Module 4: Databases for Biological Interpretation
+
+*<font color="#827e9c">David Wishart</font>*  
+
+[Module 4 Lecture Slides](https://drive.google.com/file/d/1STHEYVviXujftxKiV4gogEdDMj4k6TJi/view?usp=sharing)   
 
 # Day 2 <a id="day2"></a>
-
-##  Module 4: Backgrounder in Omics Data Science 
-
-*<font color="#827e9c">Jeff Xia</font>*  
-
-[Module 4 Lecture Slides]()   
   
-##  Module 5: MetaboAnalyst 
+##  Module 5: Backgrounder in Omics Data Science 
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 5 Lecture Slides]()   
+[Module 5 Lecture Slides](https://drive.google.com/file/d/17iSSXRrAi3MtYUs7kegbaReOAP65oOqc/view?usp=sharing)   
   
-##  Module 6: Integrating Metabolomics with Other Omics
+##  Module 6: Data Analytics for Untargeted Metabolomics
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 6 Lecture Slides]()  
+[Module 6 Lecture Slides](https://drive.google.com/file/d/1Bb2hMoQY5gKhb7zQHgPKA8TpYB-VL3nN/view?usp=sharing)  
+
+##  Module 7 (Lab): Metabolomics Data Analysis using MetaboAnalyst 5.0
+
+*<font color="#827e9c">Jeff Xia</font>*  
+  
+[Module 7 Lab Slides](https://drive.google.com/file/d/1oHkFRLhXqQ3_oECY8-Xe0gsWLUOer3tA/view?usp=sharing)   
+  
+##  Module 8: Integrating Metabolomics with Other Omics
+
+*<font color="#827e9c">Jeff Xia</font>*  
+  
+[Module 8 Lecture Slides](https://drive.google.com/file/d/15dlPYtuV_W2OiKT9Gcry_UVW2UU4UhKY/view?usp=sharing)  
