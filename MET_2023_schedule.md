@@ -22,7 +22,6 @@ home: https://bioinformaticsdotca.github.io/MET_2023
 |      15:00      |                           <font color="green">Break (30min)</font>                            |      15:00      |                                 <font color="green">Break (30min)</font>                                  |
 |      15:30      | <font color="purple">Module 4: Databases for Biological Interpretation (David Wishart)</font> |      15:30      |        <font color="purple">Module 8: Integrating Metabolomics with other Omics (Jeff Xia)</font>         |
 |      17:00      |                              <font color="green">Finished</font>                              |      17:00      |                            <font color="green">Survey & Closing Remarks</font>                            |
-|                 |                                                                                               |      17:00      |        <font color="purple">(Optional) Spectral Processing & Functional Analysis until 7pm</font>         |
 
 ## Montréal
 
@@ -38,4 +37,3 @@ home: https://bioinformaticsdotca.github.io/MET_2023
 |     17:00      |                           <font color="green">Break (30min)</font>                            |     17:00      |                                 <font color="green">Break (30min)</font>                                  |
 |     17:30      | <font color="purple">Module 4: Databases for Biological Interpretation (David Wishart)</font> |     17:30      |        <font color="purple">Module 8: Integrating Metabolomics with other Omics (Jeff Xia)</font>         |
 |     19:00      |                              <font color="green">Finished</font>                              |     19:00      |                            <font color="green">Survey & Closing Remarks</font>                            |
-|                |                                                                                               |     19:00      |        <font color="purple">(Optional) Spectral Processing & Functional Analysis until 9pm</font>         |

@@ -49,13 +49,13 @@ Coming soon!
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 2 Lecture Slides](https://drive.google.com/file/d/1igpbiuCyRWGrOvV3YrVVkM9XmKQuQIRz/view?usp=sharing)   
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1cdLd5rIm2HRlX-dyAcJi-fKx9MQupro5/view?usp=drive_link)   
   
 ##  Module 3 (Lab): Quantitative Metabolomics
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 3 Lab Slides](https://drive.google.com/file/d/112LcLzt4mvP03gyDiWGDxGctf_emLO9c/view?usp=sharing)   
+[Module 3 Lab Slides](https://drive.google.com/file/d/1Sx_nz1rLDCLHM4QK9g4Kqbc-XOw1QhwJ/view?usp=drive_link)   
 
 ##  Module 4: Databases for Biological Interpretation
 
@@ -88,3 +88,14 @@ Coming soon!
 *<font color="#827e9c">Jeff Xia</font>*  
   
 [Module 8 Lecture Slides](https://drive.google.com/file/d/15dlPYtuV_W2OiKT9Gcry_UVW2UU4UhKY/view?usp=sharing)  
+
+# Resources
+[Webserver Assignments Per User](https://docs.google.com/spreadsheets/d/11I63peSZvv1fdxb-5qv444HmEmfoydjfxdJ-TdHjkjA/edit?usp=sharing)  
+
+[GC-MS Datasets](https://drive.google.com/drive/folders/14MzVixVy5eDt__x4bl8j8UN6UFMMXNF9)  
+
+[NMR Datasets](https://drive.google.com/drive/folders/1wcl6IHof0uA3rkNpAH70dC4ap04bbrT9)  
+
+[LC-MS Datasets](https://drive.google.com/drive/folders/1Ka1Uogt6fIe23CdUeEjuAFK6uLZmWYVg)
+
+[Link to upload results](https://www.dropbox.com/request/ooHSrGu8Qnz4KnaSjTiO)
