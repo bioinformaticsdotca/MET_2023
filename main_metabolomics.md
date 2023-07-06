@@ -55,7 +55,7 @@ Coming soon!
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 3 Lab Slides](https://drive.google.com/file/d/1hG-R-EwM_YquY1dlRGxuSZBNSta1monF/view?usp=sharing)   
+[Module 3 Lab Slides](https://drive.google.com/file/d/1tvXF8oKJGgoW9wogusZwA2szGbG6YpeK/view?usp=drive_link)   
 
 ##  Module 4: Databases for Biological Interpretation
 
