@@ -55,7 +55,7 @@ Coming soon!
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 3 Lab Slides](https://drive.google.com/file/d/1Q3SrPaMGfkSjbu4mHCxhsYxL3OY0huLM/view?usp=drive_link)   
+[Module 3 Lab Slides](https://drive.google.com/file/d/1tvXF8oKJGgoW9wogusZwA2szGbG6YpeK/view?usp=drive_link)   
 
 ##  Module 4: Databases for Biological Interpretation
 
@@ -69,25 +69,28 @@ Coming soon!
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 5 Lecture Slides](https://drive.google.com/file/d/1Tble0IpSrEH0jD2827R9J0H-HR1_ZDE-/view?usp=drive_link)   
+[Module 5 Lecture Slides](https://drive.google.com/file/d/17iSSXRrAi3MtYUs7kegbaReOAP65oOqc/view?usp=sharing)   
   
 ##  Module 6: Data Analytics for Untargeted Metabolomics
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 6 Lecture Slides](https://drive.google.com/file/d/1Z0b_1WWnD1_wS4gXh4Z8ukPEHVJI_bpx/view?usp=drive_link)  
+[Module 6 Lecture Slides](https://drive.google.com/file/d/1Bb2hMoQY5gKhb7zQHgPKA8TpYB-VL3nN/view?usp=sharing)  
 
 ##  Module 7 (Lab): Metabolomics Data Analysis using MetaboAnalyst 5.0
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 7 Lab Slides](https://drive.google.com/file/d/1lPMDxKGSI_WnPcvGl-WNam-f05V7dvot/view?usp=drive_link)   
+[Module 7 Lab Slides](https://drive.google.com/file/d/1bJ7Xb1t5uEapRqMW-1CQhviB5dC5VbhI/view?usp=drive_link)
+[LC-MS lung cancer data](https://drive.google.com/file/d/1cvs1t7__xR6u4U7FNM2oht17Om6E3ZaF/view?usp=drive_link)
+[GC-MS sleep apnea data](https://drive.google.com/file/d/1tGKu6pPbBWd3MAFtWSn5kxV0cvjX_mab/view?usp=drive_link)
+[NMR sheep pregnancy data](https://drive.google.com/file/d/1GvRMVJZkVdzikDZC4RDB-ef22_Px4Xs_/view?usp=drive_link)
   
 ##  Module 8: Integrating Metabolomics with Other Omics
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 8 Lecture Slides](https://drive.google.com/file/d/1OeV9dn2es_-hT_riVWfMVbG2gjbiP5-Y/view?usp=drive_link)  
+[Module 8 Lecture Slides](https://drive.google.com/file/d/15dlPYtuV_W2OiKT9Gcry_UVW2UU4UhKY/view?usp=sharing)  
 
 # Resources
 [Webserver Assignments Per User](https://docs.google.com/spreadsheets/d/11I63peSZvv1fdxb-5qv444HmEmfoydjfxdJ-TdHjkjA/edit?usp=sharing)  
