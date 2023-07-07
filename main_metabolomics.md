@@ -81,10 +81,10 @@ Coming soon!
 
 *<font color="#827e9c">Jeff Xia</font>*  
   
-[Module 7 Lab Slides](https://drive.google.com/file/d/1bJ7Xb1t5uEapRqMW-1CQhviB5dC5VbhI/view?usp=drive_link)
-[LC-MS lung cancer data](https://drive.google.com/file/d/1cvs1t7__xR6u4U7FNM2oht17Om6E3ZaF/view?usp=drive_link)
-[GC-MS sleep apnea data](https://drive.google.com/file/d/1tGKu6pPbBWd3MAFtWSn5kxV0cvjX_mab/view?usp=drive_link)
-[NMR sheep pregnancy data](https://drive.google.com/file/d/1GvRMVJZkVdzikDZC4RDB-ef22_Px4Xs_/view?usp=drive_link)
+[Module 7 Lab Slides](https://drive.google.com/file/d/1bJ7Xb1t5uEapRqMW-1CQhviB5dC5VbhI/view?usp=drive_link)  
+[LC-MS lung cancer data](https://drive.google.com/file/d/1cvs1t7__xR6u4U7FNM2oht17Om6E3ZaF/view?usp=drive_link)  
+[GC-MS sleep apnea data](https://drive.google.com/file/d/1tGKu6pPbBWd3MAFtWSn5kxV0cvjX_mab/view?usp=drive_link)  
+[NMR sheep pregnancy data](https://drive.google.com/file/d/1GvRMVJZkVdzikDZC4RDB-ef22_Px4Xs_/view?usp=drive_link)  
   
 ##  Module 8: Integrating Metabolomics with Other Omics
 
