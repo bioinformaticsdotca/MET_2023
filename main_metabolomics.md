@@ -29,7 +29,7 @@ Meet your **faculty** [here](https://drive.google.com/file/d/1LYDdIU6ykCXV86MsAo
 
 # Class Photo
 
-Coming soon!
+<img src="https://drive.google.com/uc?export=view&id=1QhlE2rE300xko5Z2f2-hfQmB9WaJr06R" width="100%" />   
 
 *** 
 
@@ -93,14 +93,8 @@ Coming soon!
 [Module 8 Lecture Slides](https://drive.google.com/file/d/15dlPYtuV_W2OiKT9Gcry_UVW2UU4UhKY/view?usp=sharing)  
 
 # Resources
-[Webserver Assignments Per User](https://docs.google.com/spreadsheets/d/11I63peSZvv1fdxb-5qv444HmEmfoydjfxdJ-TdHjkjA/edit?usp=sharing)  
-
-[Module 3 Student Groups](https://docs.google.com/presentation/d/1KYbT6b_tZ_RzWmsm9Gu1Acq7ow6J14lyV6VMBk9y_PM/edit#slide=id.p1)  
-
 [GC-MS Datasets](https://drive.google.com/drive/folders/14MzVixVy5eDt__x4bl8j8UN6UFMMXNF9)  
 
 [NMR Datasets](https://drive.google.com/drive/folders/1wcl6IHof0uA3rkNpAH70dC4ap04bbrT9)  
 
 [LC-MS Datasets](https://drive.google.com/drive/folders/1Ka1Uogt6fIe23CdUeEjuAFK6uLZmWYVg)
-
-[Link to upload results](https://www.dropbox.com/request/ooHSrGu8Qnz4KnaSjTiO)
