@@ -29,7 +29,7 @@ Meet your **faculty** [here](https://drive.google.com/file/d/1LYDdIU6ykCXV86MsAo
 
 # Class Photo
 
-<img src="https://drive.google.com/uc?export=view&id=1QhlE2rE300xko5Z2f2-hfQmB9WaJr06R" width="100%" />   
+[Metabolomics Analysis Class of 2023](https://drive.google.com/uc?export=view&id=1QhlE2rE300xko5Z2f2-hfQmB9WaJr06R)   
 
 *** 
 
