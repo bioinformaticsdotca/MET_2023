@@ -49,7 +49,7 @@ Meet your **faculty** [here](https://drive.google.com/file/d/1LYDdIU6ykCXV86MsAo
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Module 2 Lecture Slides](https://drive.google.com/file/d/1cdLd5rIm2HRlX-dyAcJi-fKx9MQupro5/view?usp=drive_link)   
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1VWYCWI2yzGgmVzUyYc_4aK4rTpj5kFTe/view?usp=sharing)   
   
 ##  Module 3 (Lab): Quantitative Metabolomics
 
