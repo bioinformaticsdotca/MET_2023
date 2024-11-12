@@ -43,7 +43,7 @@ Meet your **faculty** [here](https://drive.google.com/file/d/1LYDdIU6ykCXV86MsAo
 
 *<font color="#827e9c">David Wishart</font>*  
   
-[Module 1 Lecture Slides](https://drive.google.com/file/d/1ibOcxoD8ouCQN_JiCLhIvOEPFDVr4Hlk/view?usp=sharing)  
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1LHylrGtHy4H308a7unAJQXDlkqfxKDSj/view?usp=sharing)  
   
 ##  Module 2: Targeted, Quantitative Metabolomics
 
