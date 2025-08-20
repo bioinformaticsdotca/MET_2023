@@ -12,9 +12,9 @@ bookdown::gitbook:
         <a href="https://bioinformaticsdotca.github.io/">
          <img src="img/bioinformatics_logo.png" width="90%" alt="bioinformatics.ca logo" style="display:block; margin-left:auto; margin-right:auto; margin-top:15px;">
          </a>
-        <li><center><strong><a href="./"><br>Metabolomics<br><br></a></strong></center></li>
+        <li><center><strong><a href="./"><br>Metabolomics Analysis<br><br></a></strong></center></li>
         <a href="./">
-         <img src="img/metabolomics_icon.png" width="70%" alt="Metabolomics icon" style="display:block; margin-left:auto; margin-right:auto; ">
+         <img src="img/metabolomics_icon.png" width="70%" alt="Metabolomics Analysis icon" style="display:block; margin-left:auto; margin-right:auto; ">
          </a>
         <br>
 
