@@ -1,1 +1,3 @@
-# MET_2023
+## CBW WORKSHOP YEAR
+
+[Workshop Website](https://bioinformaticsdotca.github.io/MET_2023/)
