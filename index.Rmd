@@ -1,5 +1,5 @@
 --- 
-title: "Metabolomics 2023"
+title: "Metabolomics Analysis 2023"
 author: "Faculty: David Wishart, Jianguo Xia, Zhiqiang Pang, Jessica Ewald, Lun Zhang, Mark Berkjanskii, Michelle Brazas, and Nia Hughes"
 date: "July 6, 2023 - July 7, 2023"
 site: bookdown::bookdown_site
@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 url: https://bioinformaticsdotca.github.io/MET_2023/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
-  Workshop website for the 2023 Metabolomics Canadian Bioinformatics Workshop
+  Workshop website for the 2023 Metabolomics Analysis Canadian Bioinformatics Workshop
 link-citations: yes
 github-repo: bioinformaticsdotca/MET_2023 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
@@ -18,7 +18,7 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the 2023 Metabolomics Canadian Bioinformatics Workshop webpage!  
+Welcome to the 2023 Metabolomics Analysis Canadian Bioinformatics Workshop webpage!  
 
 <iframe src="https://drive.google.com/file/d/1QhlE2rE300xko5Z2f2-hfQmB9WaJr06R/preview" width="640" height="480" allow="autoplay"></iframe>
 
